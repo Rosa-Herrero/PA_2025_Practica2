@@ -1,0 +1,5 @@
+Arthas,500
+Espasa de ferro,200,ARMA
+Poció de vida,50,POCIO
+Escut de fusta,100,ARMADURA
+Mineral de coure,30,RECURS

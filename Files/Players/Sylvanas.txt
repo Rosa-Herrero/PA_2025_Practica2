@@ -1,0 +1,4 @@
+Sylvanas,650
+Arc llarg,250,ARMA
+Fletxes encantades,80,RECURS
+Armadura de cuir,150,ARMADURA

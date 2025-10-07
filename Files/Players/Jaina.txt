@@ -1,0 +1,3 @@
+Jaina,800
+Bastó màgic,300,ARMA
+Roba arcana,200,ARMADURA

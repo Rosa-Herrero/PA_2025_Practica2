@@ -1,0 +1,20 @@
+Espasa de Foc,120,ARMA
+Martell de Gel,150,ARMA
+Daga Enverinada,90,ARMA
+Armadura de Ferro,200,ARMADURA
+Escut del Drac,175,ARMADURA
+Casc de Combat,80,ARMADURA
+Poció de Vida,50,POCIO
+Poció de Mana,60,POCIO
+Elixir de Força,110,POCIO
+Mineral d'Or,30,RECURS
+Pell de Llop,25,RECURS
+Fusta Encantada,40,RECURS
+Espasa de ferro,200,ARMA
+Escut de fusta,100,ARMADURA
+Mineral de coure,30,RECURS
+Arc llarg,250,ARMA
+Fletxes encantades,80,RECURS
+Armadura de cuir,150,ARMADURA
+Bastó màgic,300,ARMA
+Roba arcana,200,ARMADURA
