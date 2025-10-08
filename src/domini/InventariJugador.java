@@ -95,7 +95,7 @@ public class InventariJugador implements Comparable<InventariJugador> {
 
     /** Retorna true si l'inventari està buit */
     public boolean esBuit() {
-        // TODO: retorna true si el següent del cap és l'únic element
+        // TODO: retorna true si el cap és l'únic element
         return false;
     }
 
